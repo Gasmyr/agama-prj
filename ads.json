@@ -28,7 +28,8 @@
                 "idpUrl": "/admin/realms/%s/identity-provider/instances",
                 "extIDPTokenUrl": "/realms/%s/broker/%s/token"
             },
-            "com.exampl.runner": {}
+            "com.exampl.runner": {},
+            "com.gluu.testing": {}
         },
         "name": "saml-Inbound-saml"
     }
